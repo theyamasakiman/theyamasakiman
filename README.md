@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Yamasaki
 
-- 🌱 I’m currently Studying Human Centered Design Engineering at University of Washington
+- 🌱 I graduated from University of Washington studying Human Centered Design Engineering. I'm a UX architect and frontend developer!
 
 - 💞️ I’m looking to collaborate on any UX/UI or web development projects!
 
